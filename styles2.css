@@ -10,17 +10,3 @@ h1 {
 h3 {
   text-align: center;
 }
-
-p {
-  position: relative;
-  left: 26.5rem;
-  top: 4.1rem;
-  font-size: 20px;
-}
-
-.game {
-  position: relative;
-  left: 26.5rem;
-  top: 4.1rem;
-  font-size: 20px;
-}
