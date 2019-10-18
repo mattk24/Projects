@@ -17,3 +17,10 @@ p {
   top: 4.5rem;
   font-size: 20px;
 }
+
+.game {
+  position: relative;
+  left: 26.5rem;
+  top: 4.0rem;
+  font-size: 20px;
+}
